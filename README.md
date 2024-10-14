@@ -1,4 +1,4 @@
-![logo](https://github.com/AryanTeki/AryanTeki/blob/main/ezgif.com-added-text-1.gif)
+![logo](bannerr-ezgif.com-added-text-1.gif)
 <h1 align="center">Hi 👋, I'm Teki Aditya Raj</h1>
 <h3 align="center">A passionate Aspiring Software developer from India</h3>
 
